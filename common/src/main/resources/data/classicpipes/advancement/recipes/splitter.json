@@ -15,7 +15,7 @@
     },
     "has_recipe": {
       "conditions": {
-        "recipe": "classicpipes:splitter"
+        "recipes": "classicpipes:splitter"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
